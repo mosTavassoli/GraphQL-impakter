@@ -3,7 +3,8 @@
 The project should consider following criteria with GraphQL API using Nodejs, MongoDB and Typescript.
 
     1. Able to perform mutations to create and update a user with a few sample fields.
-    2. Able to query for users filtering by Id, and sample fields like name, zipcode, email etc. Should return paginated results if there are more than a certain number of search results.
+    2. Able to query for users filtering by Id, and sample fields like name, zipcode, email etc. 
+    Should return paginated results if there are more than a certain number of search results.
     3. Add OAuth middleware to authenticate API requests.
     4. Add any logger of your choice to log the events.
 
